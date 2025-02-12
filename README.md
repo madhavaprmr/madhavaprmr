@@ -239,7 +239,7 @@
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/madhavaprmr/madhavaprmr/blob/output/github-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/madhavaprmr/madhavaprmr/blob/output/ocean.gif)
 
 <br/>
 
