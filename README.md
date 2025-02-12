@@ -239,8 +239,7 @@
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-snake.svg)
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
 <br/>
 
 #
