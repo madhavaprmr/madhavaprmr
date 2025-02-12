@@ -33,7 +33,7 @@
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavaprmr&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
@@ -83,13 +83,13 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavaprmr&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavaprmr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=madhavaprmr&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -130,7 +130,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@bb96c02e-80a3-4e4a-b5ed-65c5b0c31604/1ba423f4-b1fc-41a1-8e94-924bda1444ef.svg" />
 
 <br>
 <br>
@@ -215,8 +215,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@bb96c02e-80a3-4e4a-b5ed-65c5b0c31604/dfd0554d-b450-49a2-a53e-c05661e3a0de.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@bb96c02e-80a3-4e4a-b5ed-65c5b0c31604/ce9dd15e-5f4d-44e4-a6ee-7e5e8f9a1021.svg" />
 </p>
 
 #
@@ -238,42 +238,42 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/madhavaprmr/" target="_blank">
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayantgoel001/" target="_blank">
+  <a href="https://www.facebook.com/madhavaprmr/" target="_blank">
     <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+  <a href="https://www.instagram.com/madhavaparmar/" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
+  <a href="https://twitter.com/madhavaprmr" target="_blank">
     <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
   </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
+  <a href="https://dev.to/madhavaprmr">
+    <code><img src="SVG/dev.svg" alt="Madhav Parmar's DEV Profile" height="62" width="62"/></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
+  <a href="https://www.hackerrank.com/visaeris/" target="_blank">
     <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
   </a>
 
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
+  <a href="http://www.codeforces.com/profile/visaeris" target="_blank">
     <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
+  <a href="https://www.hackerearth.com/@visaeris" target="_blank">
     <code><img height="60" width="60" src="SVG/he.svg"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
+  <a href="https://www.codechef.com/users/visaeris" target="_blank">
     <code><img height="60" width="60" src="SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
+  <a href="https://leetcode.com/visaeris/" target="_blank">
     <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
   </a>
 </p>
