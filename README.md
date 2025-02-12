@@ -376,6 +376,22 @@ R                        1 repo              ░░░░░░░░░░░�
 <br/>
 
 <div align="center">
+## 🗣 Languages
+<div>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-round-circle-icon.png" width="30" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/germany-flag-round-circle-icon.png" width="30" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/usa-flag-round-circle-icon.png" width="30" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/spain-country-flag-round-icon.png" width="30" />
+</div>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhavaparmar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavaprmr) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=cgrundman&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 #### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
