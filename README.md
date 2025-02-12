@@ -221,16 +221,6 @@ R                        1 repo              ░░░░░░░░░░░�
 
 #
 
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
-
 <h1>
   Connect With Me
   <img src="GIF/Handshake.gif" height="25px"/>
