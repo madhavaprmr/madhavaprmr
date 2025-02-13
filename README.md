@@ -235,15 +235,7 @@
 </details>
 <br/>
 
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=113384527" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=113384527&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @madhavaprmr" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=113384527&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<br/>
+<p align = "center">
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=113384527&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
@@ -252,6 +244,12 @@
   </picture>
 </a>
 
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=113384527" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=113384527&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @madhavaprmr">
+</a>
+</p>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <br/>
 
