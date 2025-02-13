@@ -235,6 +235,26 @@
 </details>
 <br/>
 
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=113384527" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=113384527&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @madhavaprmr" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=113384527&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=113384527&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=113384527&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@madhavaprmr's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=113384527&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<br/>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=madhavaprmr&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
@@ -242,6 +262,11 @@
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/madhavaprmr/madhavaprmr/blob/output/ocean.gif)
 
 <br/>
+
+#
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 #
 
@@ -264,7 +289,7 @@
 
 #
 
-<!-- ![footer](WEBP/footer.webp) -->
+![footer](PNG/footer.png)
 
 <p align="center">
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
