@@ -229,23 +229,18 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavaprmr&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<a align = "center" href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=113384527&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=113384527&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@madhavaprmr's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=113384527&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavaprmr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
 
 <p align = "center">
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=113384527&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=113384527&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@madhavaprmr's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=113384527&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a>
-
-<br/>
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=113384527" target="_blank">
   <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=113384527&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @madhavaprmr">
 </a>
