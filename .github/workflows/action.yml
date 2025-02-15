@@ -41,10 +41,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          plugin_people: yes
-          plugin_people_types: followers, following
-          plugin_people_limit: 1000
-          plugin_people_size: 28
           repositories_forks: yes
           plugin_reactions: yes
           plugin_reactions_limit: 200
@@ -94,5 +90,3 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_languages_colors: "rainbow"
           plugin_languages_details: bytes-size, percentage
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
