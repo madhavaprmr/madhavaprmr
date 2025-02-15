@@ -14,8 +14,6 @@
 
 [![Spotify](https://spotify-playing-peach.vercel.app/api/spotify)](https://open.spotify.com/user/31qbd4tsna2f646kjnujsdgo7pom)
 
-<br/>
-
 #
 
 <p align="center">
