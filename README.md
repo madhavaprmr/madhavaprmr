@@ -295,7 +295,7 @@
 
 #
 
-![footer](JPG/Giacomo-Balla---Pessimism-and-Optimism.jpg)
+![footer](JPG/Giacomo-Balla---Pessimism-and-Optimism.JPG)
 
 <!--
 <p align="center">
