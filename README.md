@@ -1,4 +1,4 @@
-![MasterHeader](GIF/profile.gif)
+![image](https://github.com/user-attachments/assets/b1919d27-35b3-417f-bbb4-4c183f9ca7f1)![MasterHeader](GIF/profile.gif)
 
 <br/>
 <!-- height gif 250 image 400 -->
@@ -8,7 +8,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/madhavaprmr/madhavaprmr/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Was wir wissen, ist ein Tropfen, was wir nicht wissen, ein Ozean.***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Was wir wissen, ist ein Tropfen, was wir nicht wissen, ein Ozean.**
 
 <br/>
 <br/>
