@@ -1,4 +1,4 @@
-![image]![MasterHeader](GIF/profile.gif)
+![MasterHeader](GIF/profile.gif)
 
 <br/>
 <!-- height gif 250 image 400 -->
