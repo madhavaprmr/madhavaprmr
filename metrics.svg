@@ -342,10 +342,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 2)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -379,10 +379,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 2)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2261,36 +2261,6 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2369,13 +2339,8 @@
                             <div class="entry">
                                 <span class="value">8</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                13
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2436,6 +2401,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 26
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                27
                             </div>
                         </div>
                     </section>
@@ -2445,13 +2415,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                13
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 14
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2512,6 +2477,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 26
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                27
                             </div>
                         </div>
                     </section>
@@ -2901,7 +2871,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBwX/xAAoEAABAwMDBAICAwAAAAAAAAABAgMEAAURBhIhEzFBgRRRIsFhYrH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAeEQACAgICAwAAAAAAAAAAAAABAgARBEEDEyFCUf/aAAwDAQACEQMRAD8Awq3Q5EyUhiIyXXVjGAM0im6cvemWRMkRwY7qdjhH5gA+D9V1rM7Ph32NPbhQ1uSk9MNMtJbQCDjsk48d611VgVdmnZE6Z1ob7Gz4mOW88EfXH334oHLk01amjw4oKXuB9NtNvWZCmeEOp/HPjeP0sLFL34ibhHhSO+Y6R/tcSw2eLb9ErkxH5EhtqQ4w6XG9mOcDH8BaDz/aptOanjt28sSXE72XVo9Zz+6h7GUAsQrqXXkly0uMsWtu3B5/ey5xvABOcD3V7ROvW0sTPlJkdYILyktABsYHKz9n1571l+pypN9mpK1r2r2ArOTioobq2kPdNRTubKTjyMilnFVkvcPx5TIxXUXxNfTI/wAxl6M09b5LzjpjZ2bN5JwD7Pih0ycp6S441uaQo5CFDeR781WdUahqvUgPgQ/Y/wBn/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAgT/xAApEAABBAEDAwMEAwAAAAAAAAABAgMEEQAFBiESMUETImEHQ4GRcaHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhIjH/2gAMAwEAAhEDEQA/AIcyEk+80jycatHS7MiLjbdiIcn0F2r32PI+TijMiuuRwlu+/IHnKJ9NNJdDSJMTrakMKSv1HXi3bfXS6r4v+soczRSmfkByYrLbHrIkNOP3TrbYoD5H58YKcPuOVL6pObchrmCOA7qsxKHVKQ0B0Kvk34sDt57nJKpznBWS3TJcoQ4E0g2ecb9szZUfRdRkRCRIhtD0VkAglawKqv5/Wc+1YMWZDdMlhDikroEjnsMYxCYi7e1FthHQlS2lmie/Xhcg8hpVlOwM1DdhbjgDTtwRAy6XAW5jSh1oURVVXI4F/wCZOdS00w58iM6odbLimz+DWHtF1l9Onwpy2WHX6+4kkfq8Gb0mKXuB530m0qdSlxQTYFkc+cVfPI1g2GZ//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgJ/8QALxAAAQMCBAMHAwUAAAAAAAAAAQIDBQQRAAYSIQcTUQgiMUFhgZEUMnEVFkJSof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBARErVRlI1RUqIwtVKwVuPsBZsRY6iR9lj7WuLHEZasy+1TfTxsO4mqQrvVFRUFV/TRaw+fc4OuIeTpaQ4jtU8PFEpq30shAb5bRKr2JtskabjrZFzucHPZ04S0r09mT98wZqXot1phptxQUyVlOo7fy7pbI8rHALbh5xAjY2mp4nMMMyuERUip1MgqLTt0HWQom47nh6m3TGnHZuDWrUqYYaNvsTWaLflN9jgjz9ARquHctHNRVBTIepnWmm2WAQk8skEJAG/d8vz5YWORqOAmMoREhXwsAqrqKdC3luw6HFrVbdSladyeuAcPEH9Hag3DLSVNEurdBpap15DRFSAeWoFZAJHQ+Q6YnCv0tIKhde/GqZqbaKto6W3wVL0g3JFwLDx3/wIXtsSD6E5UoRoNMtb7ykkeKhpSD8KPzjN0LmSYy47zYORqaIOpu4004eW4P6qSdlD0VfAdH5KlSIp6ioGktB0csBCLBN9icV2UYpOXMsRUUhpSvpaVpk2bJ3ShKT4Dqkn3wA9nTM1bmLLq0yLdPqo20ltTSSm5Ve9xfSPYDDmwH//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQADBAYBAgj/xAAnEAACAQMDAwUAAwAAAAAAAAABAgMABBEFEiEGE1EiMWFxoRQjkf/EABgBAQADAQAAAAAAAAAAAAAAAAQBAwUG/8QAHREAAgMBAAMBAAAAAAAAAAAAAQMAAgQRBRIxgf/aAAwDAQACEQMRAD8A5x0zTLme8ENnaS3c+ws0aJkgeac1zTpLBhHLE8UqE9xX981dOgmmt+rojb3Edu1xC8W9o85xg4HycflZ6305Lu2GpSXsk080roQygAAZ9gPr9qFNBX2I15LK1FY/IC6W1G3ks3gvGbKZfO0cjxnOag3ANxM8isFBPt4oMl2kMr7Ywwxt5P7T8VyxQHuFfjNEuok+wm4nyIsmqrnvJpFqFxFNHJFI6tG24FTyKLarr8urdpf4yxen+wo5O9/Px9UAtwGkIPIwamweiKRl4PFNUoGc9pezv2RpLdjn0kD/ACktwiDa0XP2asPD2Z3KPfxVfnjXunir2JBhc2u1SeT/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwYIAgMF/8QALRAAAQMCAwYGAgMAAAAAAAAAAQIDBAARBQYHEhMhMUGhFCJSYXGBCMFR4fD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAAxESIQQiQf/aAAwDAQACEQMRAD8ArFhOHyMVxONAho2pEhwNoT7n9VZjLOheUkQW041KlyphHnUh7dpv7ADgPmgvSMJOomDgkDi5Yn1bpdu9PuCmbLcWmTiTpiTwoJ3fBbR5/wBVG6woOTo8eoWHsDtXsinIeafBsurkYdIb30R5XMpvYg26j9ioEKdfyLUw1guWoaCpamFOpStQF7bLZV3IoKvSrbdAZOxdHIi/k7TB2TicebExpDsRt27MqEi5JHHry78j703RctMia06t5DaEK290tryBfM2/i9atK4TEXTvAUMo2QqM2s/LgK1n7IH1XUbnOifmFkpbUiNKCGipNykWXw7CsCi3Ib5GGNPssg+s2TYOZ0QVRMQ8PMjrcbJWztb9SrcOHK2z/AK1FL2i2aUuENnD3E9FB8jsUimiMouZojhfmDKS6m/qv1rCBiMlbbilOXJcVRU6DAgY7nJn/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgL/xAAtEAABAwMDAQYGAwAAAAAAAAABAgMRAAQFEhMhMQYUIkFhcQcyM4GhsUJRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIDESESMVH/2gAMAwEAAhEDEQA/AMXkTc7ZVa3JLhgttBWjTx5+nWuEW+b2G7h59pDeocuOgrkoHH3kGlzPY7PJcadet7ziFuJbiJnkDn+qP7V5m9wlnYWDdm63b7pBcuk+N3iOI8oJpI1ce9k4VuyWA5Pd9taMkuRENkpCzImOpHFBX2KzG/LBxW0pIKda21GP849qEvuzN9ctNXiy8FuJ1pbb0GZ6AQo/r3Apl3BxCEJFi8lQHjG35yfT2qirXgKDUmi2rtLlqJbC/VKan3xUw1vlkY8PyhxlLrvzRwAif2KsYSnjgeVZvtJj7fIZG2TcoKhHd+D/ABW61q+/gH5qNUsy2arG0tCnG4vF4xpgMWzYdbbCN1TcrPuetMU3LUfSR+aMzFkyy3uNgg6oieKFuUotX1tNttqSI5UkE9KZSyI2z//Z" width="28" height="28" alt="" />
@@ -3197,7 +3167,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
